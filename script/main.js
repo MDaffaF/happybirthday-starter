@@ -1,9 +1,9 @@
 // trigger to play music in the background with sweetalert
 window.addEventListener('load', () => {
     Swal.fire({
-        title: 'Mau Pake Lagu Ga Bepp?',
+        title: 'Mo Pake Lagu Ngga?',
         // text: "You won't be able to revert this!",
-        icon: 'question',
+        icon: 'warning',
         showCancelButton: true,
         confirmButtonColor: '#3085d6',
         cancelButtonColor: '#d33',
